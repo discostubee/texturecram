@@ -1,0 +1,7 @@
+make font file
+
+file=Forgotte.ttf
+size=8
+language=en
+colour=255.0.255
+

@@ -1,0 +1,14 @@
+sheet_count=1
+0,160,263
+stills_count=7
+background.png,0,32,64,84
+bubble.png,64,32,32,32
+douglas.png,96,32,32,32
+leftSide.png,0,116,23,147
+spot.png,64,64,32,32
+stand.png,128,32,32,32
+swipe.png,96,64,16,16
+sequences_count=2
+fan,2,32,32,((0,0,0),(32,0,0),)
+spotwalk,3,32,32,((64,0,0),(96,0,0),(128,0,0),)
+fonts_count=0
